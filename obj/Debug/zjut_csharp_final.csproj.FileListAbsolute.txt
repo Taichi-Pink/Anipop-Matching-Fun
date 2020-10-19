@@ -1,0 +1,48 @@
+E:\Users\Administrator\source\repos\zjut_csharp_final\bin\Debug\Interop.WMPLib.dll
+E:\Users\Administrator\source\repos\zjut_csharp_final\bin\Debug\AxInterop.WMPLib.dll
+E:\Users\Administrator\source\repos\zjut_csharp_final\obj\Debug\Interop.WMPLib.dll
+E:\Users\Administrator\source\repos\zjut_csharp_final\obj\Debug\AxInterop.WMPLib.dll
+E:\Users\Administrator\source\repos\zjut_csharp_final\obj\Debug\zjut_csharp_final.csproj.ResolveComReference.cache
+E:\Users\Administrator\source\repos\zjut_csharp_final\obj\Debug\zjut_csharp_final.csproj.GenerateResource.cache
+E:\Users\Administrator\source\repos\zjut_csharp_final\obj\Debug\zjut_csharp_final.csproj.CoreCompileInputs.cache
+E:\Users\Administrator\source\repos\zjut_csharp_final\obj\Debug\zjut_csharp_final.Properties.Resources.resources
+E:\Users\Administrator\source\repos\zjut_csharp_final\bin\Debug\zjut_csharp_final.exe
+E:\Users\Administrator\source\repos\zjut_csharp_final\bin\Debug\zjut_csharp_final.pdb
+E:\Users\Administrator\source\repos\zjut_csharp_final\obj\Debug\zjut_csharp_final.zjut_csharp_final.resources
+E:\Users\Administrator\source\repos\zjut_csharp_final\obj\Debug\zjut_csharp_final.exe
+E:\Users\Administrator\source\repos\zjut_csharp_final\obj\Debug\zjut_csharp_final.pdb
+E:\Users\Administrator\source\repos\zjut_csharp_final\obj\Debug\zjut_csharp_final.csprojAssemblyReference.cache
+E:\Users\Administrator\source\repos\zjut_csharp_final\obj\Debug\zjut_csharp_final.Resource1.resources
+E:\Users\Administrator\source\repos\zjut_csharp_final\obj\Debug\zjut_csharp_final.Resource2.resources
+E:\作业\dot net\201626810809 李昕虎 大实验\C#+软件工程1606+201626810812+苗震\zjut_csharp_final\bin\Debug\zjut_csharp_final.exe
+E:\作业\dot net\201626810809 李昕虎 大实验\C#+软件工程1606+201626810812+苗震\zjut_csharp_final\bin\Debug\zjut_csharp_final.pdb
+E:\作业\dot net\201626810809 李昕虎 大实验\C#+软件工程1606+201626810812+苗震\zjut_csharp_final\bin\Debug\Interop.WMPLib.dll
+E:\作业\dot net\201626810809 李昕虎 大实验\C#+软件工程1606+201626810812+苗震\zjut_csharp_final\bin\Debug\AxInterop.WMPLib.dll
+E:\作业\dot net\201626810809 李昕虎 大实验\C#+软件工程1606+201626810812+苗震\zjut_csharp_final\obj\Debug\zjut_csharp_final.csprojAssemblyReference.cache
+E:\作业\dot net\201626810809 李昕虎 大实验\C#+软件工程1606+201626810812+苗震\zjut_csharp_final\obj\Debug\Interop.WMPLib.dll
+E:\作业\dot net\201626810809 李昕虎 大实验\C#+软件工程1606+201626810812+苗震\zjut_csharp_final\obj\Debug\AxInterop.WMPLib.dll
+E:\作业\dot net\201626810809 李昕虎 大实验\C#+软件工程1606+201626810812+苗震\zjut_csharp_final\obj\Debug\zjut_csharp_final.csproj.ResolveComReference.cache
+E:\作业\dot net\201626810809 李昕虎 大实验\C#+软件工程1606+201626810812+苗震\zjut_csharp_final\obj\Debug\zjut_csharp_final.zjut_csharp_final.resources
+E:\作业\dot net\201626810809 李昕虎 大实验\C#+软件工程1606+201626810812+苗震\zjut_csharp_final\obj\Debug\zjut_csharp_final.Properties.Resources.resources
+E:\作业\dot net\201626810809 李昕虎 大实验\C#+软件工程1606+201626810812+苗震\zjut_csharp_final\obj\Debug\zjut_csharp_final.Resource1.resources
+E:\作业\dot net\201626810809 李昕虎 大实验\C#+软件工程1606+201626810812+苗震\zjut_csharp_final\obj\Debug\zjut_csharp_final.Resource2.resources
+E:\作业\dot net\201626810809 李昕虎 大实验\C#+软件工程1606+201626810812+苗震\zjut_csharp_final\obj\Debug\zjut_csharp_final.csproj.GenerateResource.cache
+E:\作业\dot net\201626810809 李昕虎 大实验\C#+软件工程1606+201626810812+苗震\zjut_csharp_final\obj\Debug\zjut_csharp_final.csproj.CoreCompileInputs.cache
+E:\作业\dot net\201626810809 李昕虎 大实验\C#+软件工程1606+201626810812+苗震\zjut_csharp_final\obj\Debug\zjut_csharp_final.exe
+E:\作业\dot net\201626810809 李昕虎 大实验\C#+软件工程1606+201626810812+苗震\zjut_csharp_final\obj\Debug\zjut_csharp_final.pdb
+F:\Assignment\.net\zjut_csharp_final\bin\Debug\zjut_csharp_final.exe
+F:\Assignment\.net\zjut_csharp_final\bin\Debug\zjut_csharp_final.pdb
+F:\Assignment\.net\zjut_csharp_final\bin\Debug\Interop.WMPLib.dll
+F:\Assignment\.net\zjut_csharp_final\bin\Debug\AxInterop.WMPLib.dll
+F:\Assignment\.net\zjut_csharp_final\obj\Debug\zjut_csharp_final.csprojAssemblyReference.cache
+F:\Assignment\.net\zjut_csharp_final\obj\Debug\Interop.WMPLib.dll
+F:\Assignment\.net\zjut_csharp_final\obj\Debug\AxInterop.WMPLib.dll
+F:\Assignment\.net\zjut_csharp_final\obj\Debug\zjut_csharp_final.csproj.ResolveComReference.cache
+F:\Assignment\.net\zjut_csharp_final\obj\Debug\zjut_csharp_final.zjut_csharp_final.resources
+F:\Assignment\.net\zjut_csharp_final\obj\Debug\zjut_csharp_final.Properties.Resources.resources
+F:\Assignment\.net\zjut_csharp_final\obj\Debug\zjut_csharp_final.Resource1.resources
+F:\Assignment\.net\zjut_csharp_final\obj\Debug\zjut_csharp_final.Resource2.resources
+F:\Assignment\.net\zjut_csharp_final\obj\Debug\zjut_csharp_final.csproj.GenerateResource.cache
+F:\Assignment\.net\zjut_csharp_final\obj\Debug\zjut_csharp_final.csproj.CoreCompileInputs.cache
+F:\Assignment\.net\zjut_csharp_final\obj\Debug\zjut_csharp_final.exe
+F:\Assignment\.net\zjut_csharp_final\obj\Debug\zjut_csharp_final.pdb

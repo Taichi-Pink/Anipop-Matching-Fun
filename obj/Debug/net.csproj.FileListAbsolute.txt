@@ -1,0 +1,16 @@
+F:\Assignment\.net\zjut_csharp_final\obj\Debug\net.csprojAssemblyReference.cache
+F:\Assignment\.net\zjut_csharp_final\obj\Debug\Interop.WMPLib.dll
+F:\Assignment\.net\zjut_csharp_final\obj\Debug\AxInterop.WMPLib.dll
+F:\Assignment\.net\zjut_csharp_final\obj\Debug\net.csproj.ResolveComReference.cache
+F:\Assignment\.net\zjut_csharp_final\obj\Debug\net.net.resources
+F:\Assignment\.net\zjut_csharp_final\obj\Debug\zjut_csharp_final.Properties.Resources.resources
+F:\Assignment\.net\zjut_csharp_final\obj\Debug\zjut_csharp_final.Resource1.resources
+F:\Assignment\.net\zjut_csharp_final\obj\Debug\zjut_csharp_final.Resource2.resources
+F:\Assignment\.net\zjut_csharp_final\obj\Debug\net.csproj.GenerateResource.cache
+F:\Assignment\.net\zjut_csharp_final\obj\Debug\net.csproj.CoreCompileInputs.cache
+F:\Assignment\.net\zjut_csharp_final\obj\Debug\zjut_csharp_final.exe
+F:\Assignment\.net\zjut_csharp_final\obj\Debug\zjut_csharp_final.pdb
+F:\Assignment\.net\zjut_csharp_final\bin\Debug\zjut_csharp_final.exe
+F:\Assignment\.net\zjut_csharp_final\bin\Debug\zjut_csharp_final.pdb
+F:\Assignment\.net\zjut_csharp_final\bin\Debug\Interop.WMPLib.dll
+F:\Assignment\.net\zjut_csharp_final\bin\Debug\AxInterop.WMPLib.dll
